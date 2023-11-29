@@ -1,9 +1,9 @@
 [gd_scene load_steps=5 format=2]
 
-[ext_resource path="res://Menu/configs/font_buttons_quit.tres" type="DynamicFont" id=1]
-[ext_resource path="res://Menu/configs/title_ui.tres" type="DynamicFont" id=2]
-[ext_resource path="res://Menu/configs/font_buttons_play.tres" type="DynamicFont" id=3]
-[ext_resource path="res://Menu/Your_death_script.gd" type="Script" id=4]
+[ext_resource path="res://ui/configs/font/font_buttons_quit.tres" type="DynamicFont" id=1]
+[ext_resource path="res://ui/configs/font/title_ui.tres" type="DynamicFont" id=2]
+[ext_resource path="res://ui/configs/font/font_buttons_play.tres" type="DynamicFont" id=3]
+[ext_resource path="res://ui/menu/Your_death_script.gd" type="Script" id=4]
 
 [node name="Control" type="Control"]
 anchor_right = 1.0
